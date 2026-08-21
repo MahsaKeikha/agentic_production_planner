@@ -1,0 +1,1 @@
+def run(c): return {"agent":"scheduling","constraints":c.get("constraints",[])}

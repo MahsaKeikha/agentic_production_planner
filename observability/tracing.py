@@ -1,0 +1,1 @@
+def event(name,payload): return {"event":name,"payload":payload}

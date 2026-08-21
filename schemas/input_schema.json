@@ -1,0 +1,1 @@
+{"type":"object","required":["objective","context"],"properties":{"objective":{"type":"string"},"context":{"type":"object"}}}

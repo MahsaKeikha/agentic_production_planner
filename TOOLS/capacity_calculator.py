@@ -1,0 +1,1 @@
+def calculate(units,hours): return units/hours if hours else 0

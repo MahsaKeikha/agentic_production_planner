@@ -1,0 +1,1 @@
+def evaluate(r): return {"complete":len(r)==5,"agent_count":len(r)}

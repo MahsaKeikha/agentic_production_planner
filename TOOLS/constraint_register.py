@@ -1,0 +1,1 @@
+def register(items): return [{"constraint":x} for x in items]

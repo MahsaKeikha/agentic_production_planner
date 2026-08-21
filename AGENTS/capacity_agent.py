@@ -1,0 +1,1 @@
+def run(c): return {"agent":"capacity","capacity":c.get("capacity",{})}

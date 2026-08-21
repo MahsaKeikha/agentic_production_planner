@@ -1,0 +1,1 @@
+def approve(human_approved=False): return bool(human_approved)

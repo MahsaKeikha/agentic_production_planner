@@ -1,0 +1,1 @@
+def build(items): return [{"order":i+1,"item":x} for i,x in enumerate(items)]

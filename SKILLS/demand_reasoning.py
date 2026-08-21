@@ -1,0 +1,1 @@
+def apply(x): return {"demand_reasoning":x}

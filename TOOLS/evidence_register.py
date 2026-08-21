@@ -1,0 +1,1 @@
+def register(items): return [{"source":x,"verified":False} for x in items]

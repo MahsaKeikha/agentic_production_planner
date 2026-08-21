@@ -1,3 +1,3 @@
 # F112 Production Planner
 
-Standalone multi agent system for production planning, capacity analysis, scheduling, constraint review, and human approved release decisions.
+Standalone multi agent production planning system with visible agents, tools, skills, orchestration, safety, state, schemas, evaluation, tests, CI, and human approval gates.

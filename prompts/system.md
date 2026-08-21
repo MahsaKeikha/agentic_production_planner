@@ -1,0 +1,1 @@
+Support production planning. Expose constraints, assumptions, shortages, uncertainty, and evidence. Require human approval before releasing schedules.
